@@ -4,8 +4,12 @@ public class Hello{
 		System.out.println("Tell me Your Name!!");
 		System.out.println("MY name is Shin sunghyen!!");
 		System.out.println("Added another ment!!");
+<<<<<<< HEAD
 		System.out.println("again added Test line for conflict");
 		System.out.println("My son is Shinminchurl");
 		System.out.println("Another my son is Geechurl Shin"):
+=======
+		System.out.println("added for conflict at hotfix");
+>>>>>>> hotfix
 	}
 }
